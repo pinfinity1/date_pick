@@ -51,7 +51,7 @@ function App() {
       dir="rtl"
       className=" w-screen lg:h-screen font-iransans"
       id="background"
-    > 
+    >
       <div className="container mx-auto flex flex-col lg:flex-row justify-center items-center gap-4 w-full h-full px-5">
         <div className="w-full lg:w-1/3 flex flex-col md:flex-row lg:flex-col justify-between items-center md:pt-5 lg:pt-0">
           <div className="w-full sm:w-fit bg-gray-100 text-md rounded-md shadow-xl p-5 flex flex-col justify-center mt-8 mb-12 ">

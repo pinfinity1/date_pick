@@ -25,7 +25,7 @@ const data = [
   {
     id: 5,
     dateDetail:
-      "Plan a future date you can go on together with a strict budget limit ($5, $10).11!!!!!!!!!!!!!!!",
+      "میرید مغازه و خوراکی های مورد علاقه همدیگرو میخرید، به هم نشون نمیدین و به صورت مسابقه ای عمل میکنید که کی بهتر اون یکی رو میشناسه",
     status: "pending",
   },
   {
